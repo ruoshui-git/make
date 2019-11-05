@@ -7,7 +7,7 @@
 
 
 # space-separated list of source files
-SRCS = main.c helper.c # Place all
+SRCS = main.c helper.c # Place all .c files here
 
 # name for executable
 EXE = main
